@@ -1,0 +1,9 @@
+#wordpress{
+  color: #343b99;
+  font-size: 100px;
+}
+
+.languages{
+  display: grid;
+  width: 200px;
+}
