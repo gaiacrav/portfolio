@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Orelega+One&display=swap');
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+
+h1, h2, h4 {
+  font-family: 'Orelega One', cursive;
+}
+
+footer {
+  font-family: 'Lora', serif;
+  font-weight: 400;
+  font-style: italic;
+  padding: 20px;
+  background-color: #98ded3;
+  text-align: center;
+}
+
+.page {
+  padding: 20px;
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.page-header {
+  padding: 20px;
+  background-color: #eccfd1;
+}
+
+.page-body{
+  padding: 20px;
+  background-color: #e4eddb;
+  display: flex;
+  justify-content: space-around;
+}
+
+#wordpress{
+  color: #343b99;
+  font-size: 100px;
+}
+
+.languages{
+  display: grid;
+  width: 200px;
+}
+
+.projects{
+  display: grid;
+}
+
+.project-card{
+  background-color: white;
+  width: 550px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.project-card-header{
+  height: 200px;
+  background-image: url(images/HiThere!.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-card-header h4 {
+  color: white;
+  text-align: center;
+}
