@@ -57,17 +57,29 @@ footer {
   border-radius: 5px;
 }
 
-.project-card-header{
+.project-card-header {
   height: 200px;
-  background-image: url(images/HiThere!.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .project-card-header h4 {
   color: white;
   text-align: center;
 }
+
+#project-1{
+  background-image: url(images/HiThere!.png);
+}
+#project-2{
+  background-image: url(images/outtaspace\ rentals.png);
+}
+#project-3{
+  background-image: url(images/Chore\ Door.png);
+}
+#project-4{
+}
+
