@@ -4,6 +4,11 @@
 }
 
 .languages{
-  display: grid;
-  width: 200px;
+  width: 400px;
+  padding: 30px;
+}
+
+#languages-header{
+  margin-bottom: 20px;
+  text-align: center;
 }
