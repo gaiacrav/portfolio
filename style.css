@@ -37,5 +37,24 @@ footer {
   text-align: center;
 }
 
+.fa-linkedin{
+  color: white;
+  font-size: 24px;
+}
+
+.fa-linkedin:hover{
+  color: #eccfd1;
+  font-size: 32px;
+}
+
+.fa-github-square{
+  color: white;
+  font-size: 24px;
+}
+
+.fa-github-square:hover{
+  color: #eccfd1;
+  font-size: 32px;
+}
 
 
