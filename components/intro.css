@@ -1,0 +1,29 @@
+#intro{
+  height: 100%;
+  width: 100%;
+  padding-top: 200px;
+  background: linear-gradient(#e66465, #9198e5);
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+}
+
+
+#intro img{
+  height: 220px;
+  border-radius: 100px;
+  border: 2px solid #e66465;
+}
+
+#intro img:hover{
+  cursor: pointer;
+}
+
+#intro h1{
+  display: block;
+  padding-top: 20px;
+}
+
+#intro h1:hover{
+  color: #fd7e89;
+}
