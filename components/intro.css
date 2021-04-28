@@ -8,11 +8,11 @@
   text-align: center;
 }
 
-
 #intro img{
   height: 220px;
   border-radius: 100px;
   border: 2px solid #e66465;
+  position: relative;
 }
 
 #intro img:hover{
@@ -26,4 +26,16 @@
 
 #intro h1:hover{
   color: #fd7e89;
+}
+
+#intro p{
+  color: white;
+  font-style: italic;
+  position: absolute;
+  right: 10%;
+  top: 20%;
+}
+
+#robot{
+  font-style: normal;
 }
